@@ -1,0 +1,22 @@
+{
+  "name": "boring_skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Formatted/boringSkill.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Formatted/boringSkill/issues"
+  },
+  "homepage": "https://github.com/Formatted/boringSkill#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.1"
+  }
+}
